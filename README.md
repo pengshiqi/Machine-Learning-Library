@@ -14,3 +14,10 @@ My machine learning library with demos implemented in Python.
 
 - ☑️ Dimension Reduction
 
+
+
+
+🌀 ***2018-03-20 10:06***
+
+- ☑️ Multiple Layers Perceptron
+
